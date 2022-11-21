@@ -11,6 +11,6 @@ public class question5 {
             }
             System.out.println();
         }
-        System.out.println("I Love You");
+        System.out.println("I hate You");
     }
 }
