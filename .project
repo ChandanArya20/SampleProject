@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>pattern</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/question1.java</name>
+			<type>1</type>
+			<location>C:/Users/Chandan/Desktop/SolvedAssignmment/pattern/src/question1.java</location>
+		</link>
+		<link>
+			<name>src/question2.java</name>
+			<type>1</type>
+			<location>C:/Users/Chandan/Desktop/SolvedAssignmment/pattern/src/question2.java</location>
+		</link>
+		<link>
+			<name>src/question3.java</name>
+			<type>1</type>
+			<location>C:/Users/Chandan/Desktop/SolvedAssignmment/pattern/src/question3.java</location>
+		</link>
+		<link>
+			<name>src/question4.java</name>
+			<type>1</type>
+			<location>C:/Users/Chandan/Desktop/SolvedAssignmment/pattern/src/question4.java</location>
+		</link>
+		<link>
+			<name>src/question5.java</name>
+			<type>1</type>
+			<location>C:/Users/Chandan/Desktop/SolvedAssignmment/pattern/src/question5.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
